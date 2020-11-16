@@ -85,3 +85,7 @@ sudo apt purge code
 А если установка выполнялась через менеджер пакетов snap или центр приложений, то для удаления достаточно выполнить:
 
 sudo snap remove code
+
+
+https://opened-week4.herokuapp.com/result4/
+
