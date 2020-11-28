@@ -4,3 +4,8 @@ echo “deb https://dl.yarnpkg.com/debian/ stable main” | sudo tee /etc/apt/so
 https://WhoppingWearableBot.andrekonovalov.repl.co
 https://opened-week4.herokuapp.com/result4/
 
+curl 'https://demoapp.kodaktor.ru/req/?addr=http://node-server.online/r/assets/week.txt'
+5
+
+curl 'https://demoapp.kodaktor.ru/req/' -d 'addr=http://node-server.online/r/assets/week.txt'
+5
