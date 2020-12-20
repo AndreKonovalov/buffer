@@ -10,3 +10,5 @@ curl 'https://demoapp.kodaktor.ru/req/?addr=http://node-server.online/r/assets/w
 curl 'https://demoapp.kodaktor.ru/req/' -d 'addr=http://node-server.online/r/assets/week.txt'
 5
 https://opened-week5.herokuapp.com/req/?addr=http://node-server.online/r/assets/week.tx
+
+https://ofitsialnaya-versiya.org/samouchitel-linux-dlya-polzovatelya/
